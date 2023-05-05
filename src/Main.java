@@ -1,7 +1,9 @@
+import command.CommandDemo;
 import iterator.IteratorDemo;
 import memento.MementoDemo;
 import state.StateDemo;
 import strategy.StrategyDemo;
+import templatemethod.TemplateMethodDemo;
 
 public class Main {
     public static void main(String[] args) {
@@ -11,6 +13,10 @@ public class Main {
 
         //IteratorDemo.show();
 
-        StrategyDemo.show();
+        //StrategyDemo.show();
+
+        //TemplateMethodDemo.show();
+
+        CommandDemo.show();
     }
 }

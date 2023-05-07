@@ -5,3 +5,5 @@ Design Patterns are a powerful tool for software developers to solve common soft
 One of the key benefits of Design Patterns is that they can be divided into three categories: Creational, Structural, and Behavioral. Each category has its own set of patterns that address specific problems. By categorizing Design Patterns, developers can easily identify the pattern that best fits their problem and apply it to their software design.
 
 Whether you are developing a small application or a complex system, using Design Patterns can help you manage the complexity and create software that is scalable and easy to maintain. With Design Patterns, you can achieve a higher level of abstraction and reuse, reducing the amount of code you need to write and making your software more robust and efficient.
+
+The example Java implementations as well as the UML diagrams are based off of [Mosh Hamedami's Design Pattern Series](https://codewithmosh.com/p/design-patterns)

@@ -1,4 +1,6 @@
 # Iterator Pattern
+[Refactoring Guru](https://refactoring.guru/design-patterns/iterator), [Digital Ocean](https://www.digitalocean.com/community/tutorials/iterator-design-pattern-java), [Java Spring Framework](https://springframework.guru/gang-of-four-design-patterns/iterator-pattern/)
+
 ## Overview
 The Iterator pattern is a behavioral design pattern that provides a way to access the elements of an aggregate object sequentially without exposing its underlying representation. It defines a separate object (the iterator) that encapsulates the traversal logic, which can be used to iterate over a collection of objects.
 

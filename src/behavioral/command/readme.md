@@ -14,3 +14,7 @@ The Command pattern is useful in the following situations:
 * When you want to implement logging or auditing of commands.
 
 In general, the Command pattern is useful in any situation where you want to separate the responsibilities of issuing a request and executing it, or where you want to add flexibility to your code by allowing requests to be created, queued, and executed dynamically.
+
+## UML Diagram
+
+![Alt text](/src/behavioral/command/UML.jpg)

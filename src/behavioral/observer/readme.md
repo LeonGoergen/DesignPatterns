@@ -14,3 +14,7 @@ The Observer pattern is useful in the following situations:
 * When you need to implement publish/subscribe functionality in your application.
 
 In general, the Observer pattern is useful in any situation where you want to define a one-to-many relationship between objects, where the state of one object affects the state of other objects.
+
+## UML Diagram
+
+![Alt text](/src/behavioral/observer/UML.jpg)

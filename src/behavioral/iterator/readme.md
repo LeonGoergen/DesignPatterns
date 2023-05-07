@@ -14,3 +14,7 @@ The Iterator pattern is useful in the following situations:
 * When you want to support multiple traversals of the same collection simultaneously.
 
 In general, the Iterator pattern is useful in any situation where you need to traverse a collection of objects in a flexible and efficient way, without exposing the underlying implementation details of the collection.
+
+## UML Diagram
+
+![Alt text](/src/behavioral/iterator/UML.jpg)

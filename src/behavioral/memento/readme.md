@@ -14,3 +14,7 @@ The Memento pattern is useful in the following situations:
 * When you want to provide a snapshot of the state of an object, which can be used for debugging or testing purposes.
 
 In general, the Memento pattern is useful in any situation where you need to capture and store the state of an object without exposing its internals.
+
+## UML Diagram
+
+![Alt text](/src/behavioral/memento/UML.jpg)

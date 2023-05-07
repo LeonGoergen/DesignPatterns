@@ -14,3 +14,7 @@ The State pattern is useful in the following situations:
 * When you want to separate the responsibilities of an object's behavior and its state into separate objects.
 
 In general, the State pattern is useful in any situation where you need to manage the behavior of an object based on its internal state, and where you want to avoid using conditional statements to switch between behaviors. It is also useful when you need to add new states or change the behavior of existing states dynamically, without modifying the object's code.
+
+## UML Diagram
+
+![Alt text](/src/behavioral/state/UML.jpg)

@@ -1,3 +1,4 @@
+import behavioral.mediator.MediatorDemo;
 import behavioral.observer.ObserverDemo;
 
 public class Main {
@@ -10,6 +11,7 @@ public class Main {
 //        TemplateMethodDemo.show();
 //        CommandDemo.show();
 //        UndoCommandDemo.show();
-        ObserverDemo.show();
+//        ObserverDemo.show();
+//        MediatorDemo.show();
     }
 }

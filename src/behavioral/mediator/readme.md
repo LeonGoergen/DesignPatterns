@@ -15,3 +15,7 @@ The Mediator pattern is useful in the following situations:
 * When you want to implement a chat or messaging system, where objects can send and receive messages through a central mediator.
 
 In general, the Mediator pattern is useful in any situation where you want to decouple the interactions between objects, or where you want to implement a central hub for communication in a distributed system.
+
+## UML Diagram
+
+![Alt text](/src/behavioral/mediator/UML.jpg)

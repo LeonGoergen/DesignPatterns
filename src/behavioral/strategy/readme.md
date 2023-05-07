@@ -1,4 +1,6 @@
 # Strategy Pattern
+[Refactoring Guru](https://refactoring.guru/design-patterns/strategy), [Digital Ocean](https://www.digitalocean.com/community/tutorials/strategy-design-pattern-in-java-example-tutorial), [Java Spring Framework](https://springframework.guru/gang-of-four-design-patterns/strategy-pattern/)
+
 ## Overview
 The Strategy pattern is a behavioral design pattern that allows you to define a family of algorithms, encapsulate each one as an object, and make them interchangeable at runtime. This pattern lets you change the behavior of an object at runtime without interfering with the behavior of other objects in the same system.
 

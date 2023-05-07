@@ -15,4 +15,4 @@ The Strategy pattern is useful in the following situations:
 
 In general, the Strategy pattern is useful in any situation where you want to implement different behaviors or algorithms for a particular task, and you want to be able to change those behaviors at runtime without affecting other objects in the same system.
 
-![Alt text](relative%20behavioral/strategy/UML.jpg?raw=true "Title")
+![Alt text](/src/behavioral/strategy/UML.jpg)

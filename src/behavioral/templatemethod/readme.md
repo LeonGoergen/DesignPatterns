@@ -1,4 +1,6 @@
 # Template Method Pattern
+[Refactoring Guru](https://refactoring.guru/design-patterns/template-method), [Digital Ocean](https://www.digitalocean.com/community/tutorials/template-method-design-pattern-in-java), [Java Spring Framework](https://springframework.guru/gang-of-four-design-patterns/template-method-pattern/)
+
 ## Overview
 The Template Method pattern is a behavioral design pattern that defines the skeleton of an algorithm in a base class, while allowing subclasses to override some of the steps of the algorithm without changing its structure.
 

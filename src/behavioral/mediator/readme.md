@@ -1,4 +1,6 @@
 # Mediator Pattern
+[Digital Ocean](https://www.digitalocean.com/community/tutorials/mediator-design-pattern-java), [Java Spring Framework](https://springframework.guru/gang-of-four-design-patterns/mediator-pattern/)
+
 ## Overview
 The Mediator pattern is a behavioral design pattern that defines an object that encapsulates how a set of objects interact with each other. The mediator object acts as an intermediary between the objects, allowing them to communicate with each other without being tightly coupled.
 

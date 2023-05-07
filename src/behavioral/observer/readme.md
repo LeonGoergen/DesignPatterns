@@ -1,4 +1,6 @@
 # Observer Pattern
+[Refactoring Guru](https://refactoring.guru/design-patterns/observer), [Digital Ocean](https://www.digitalocean.com/community/tutorials/observer-design-pattern-in-java), [Java Spring Framework](https://springframework.guru/gang-of-four-design-patterns/observer-pattern/)
+
 ## Overview
 The Observer pattern is a behavioral design pattern that defines a one-to-many dependency between objects so that when one object changes state, all its dependents are notified and updated automatically.
 

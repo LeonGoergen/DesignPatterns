@@ -1,4 +1,6 @@
 # Memento Pattern
+[Refactoring Guru](https://refactoring.guru/design-patterns/memento), [Digital Ocean](https://www.digitalocean.com/community/tutorials/memento-design-pattern-java), [Java Spring Framework](https://springframework.guru/gang-of-four-design-patterns/memento-pattern/)
+
 ## Overview
 The Memento pattern is a behavioral design pattern that allows you to capture and externalize the state of an object without violating encapsulation. The pattern allows you to save and restore the state of an object, which can be useful for implementing undo/redo functionality or for providing checkpoints in a long-running process.
 

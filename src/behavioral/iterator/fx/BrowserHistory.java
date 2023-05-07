@@ -1,4 +1,4 @@
-package behavioral.iterator;
+package behavioral.iterator.fx;
 
 // Aggregate
 public class BrowserHistory {

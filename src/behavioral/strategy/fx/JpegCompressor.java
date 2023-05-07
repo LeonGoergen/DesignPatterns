@@ -1,4 +1,4 @@
-package behavioral.strategy;
+package behavioral.strategy.fx;
 
 // Concrete Strategy 1 B
 public class JpegCompressor implements Compressor{

@@ -1,5 +1,8 @@
 package behavioral.memento;
 
+import behavioral.memento.fx.Editor;
+import behavioral.memento.fx.History;
+
 public class MementoDemo {
     public static void show () {
         var editor = new Editor();

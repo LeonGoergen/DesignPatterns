@@ -1,5 +1,10 @@
 package behavioral.strategy;
 
+import behavioral.strategy.fx.BlackAndWhiteFilter;
+import behavioral.strategy.fx.ImageStorage;
+import behavioral.strategy.fx.JpegCompressor;
+import behavioral.strategy.fx.PngCompressor;
+
 public class StrategyDemo {
     public static void show() {
         var imageStorage = new ImageStorage();

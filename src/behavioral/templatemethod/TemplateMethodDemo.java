@@ -1,5 +1,8 @@
 package behavioral.templatemethod;
 
+import behavioral.templatemethod.fx.GenerateReportTask;
+import behavioral.templatemethod.fx.TransferMoneyTask;
+
 public class TemplateMethodDemo {
     public static void show() {
         var moneyTask = new TransferMoneyTask();

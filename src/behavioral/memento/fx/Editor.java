@@ -1,4 +1,4 @@
-package behavioral.memento;
+package behavioral.memento.fx;
 
 // Originator
 public class Editor {

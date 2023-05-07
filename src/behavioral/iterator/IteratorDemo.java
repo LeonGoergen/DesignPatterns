@@ -1,5 +1,8 @@
 package behavioral.iterator;
 
+import behavioral.iterator.fx.BrowserHistory;
+import behavioral.iterator.fx.Iterator;
+
 public class IteratorDemo {
     public static void show () {
         var history = new BrowserHistory();

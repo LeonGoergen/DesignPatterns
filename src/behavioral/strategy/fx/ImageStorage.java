@@ -1,4 +1,4 @@
-package behavioral.strategy;
+package behavioral.strategy.fx;
 
 // Context
 public class ImageStorage {

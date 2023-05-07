@@ -1,4 +1,4 @@
-package behavioral.state;
+package behavioral.state.fx;
 
 // Concrete State B
 public class BrushTool implements Tool {

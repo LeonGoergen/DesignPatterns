@@ -1,4 +1,4 @@
-package behavioral.state;
+package behavioral.state.fx;
 
 // State
 public interface Tool {

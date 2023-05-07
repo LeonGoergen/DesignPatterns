@@ -1,4 +1,4 @@
-package behavioral.strategy;
+package behavioral.strategy.fx;
 
 // Strategy 2
 public interface Filter {

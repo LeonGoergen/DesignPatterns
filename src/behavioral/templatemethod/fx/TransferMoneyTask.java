@@ -1,4 +1,4 @@
-package behavioral.templatemethod;
+package behavioral.templatemethod.fx;
 
 // Concrete Class A
 public class TransferMoneyTask extends Task{

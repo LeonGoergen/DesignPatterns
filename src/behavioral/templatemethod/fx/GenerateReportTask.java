@@ -1,4 +1,4 @@
-package behavioral.templatemethod;
+package behavioral.templatemethod.fx;
 
 // Concrete Class B
 public class GenerateReportTask extends Task{

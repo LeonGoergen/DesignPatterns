@@ -1,4 +1,4 @@
-package behavioral.memento;
+package behavioral.memento.fx;
 
 // Memento
 public class EditorState {

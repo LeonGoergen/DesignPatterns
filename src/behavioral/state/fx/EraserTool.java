@@ -1,4 +1,4 @@
-package behavioral.state;
+package behavioral.state.fx;
 
 // Concrete State C
 public class EraserTool implements Tool{

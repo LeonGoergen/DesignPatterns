@@ -1,4 +1,4 @@
-package behavioral.strategy;
+package behavioral.strategy.fx;
 
 // Concrete Strategy 2 A
 public class HighContrastFilter implements Filter {

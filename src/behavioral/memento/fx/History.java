@@ -1,4 +1,4 @@
-package behavioral.memento;
+package behavioral.memento.fx;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package behavioral.iterator;
+package behavioral.iterator.fx;
 
 // Iterator
 public interface Iterator<T> {

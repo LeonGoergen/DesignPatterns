@@ -1,4 +1,4 @@
-package behavioral.state;
+package behavioral.state.fx;
 
 // Concrete State A
 public class SelectionTool implements Tool {

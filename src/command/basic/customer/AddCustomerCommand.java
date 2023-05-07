@@ -1,6 +1,6 @@
-package command.customer;
+package command.basic.customer;
 
-import command.fx.Command;
+import command.basic.fx.Command;
 
 // Concrete Command
 public class AddCustomerCommand implements Command {

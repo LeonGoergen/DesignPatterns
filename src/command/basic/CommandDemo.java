@@ -1,10 +1,10 @@
-package command;
+package command.basic;
 
-import command.customer.*;
-import command.fx.Button;
-import command.images.BlackAndWhiteCommand;
-import command.images.CompositeCommands;
-import command.images.ResizeCommand;
+import command.basic.customer.*;
+import command.basic.fx.Button;
+import command.basic.images.BlackAndWhiteCommand;
+import command.basic.images.CompositeCommands;
+import command.basic.images.ResizeCommand;
 
 public class CommandDemo {
     public static void show () {

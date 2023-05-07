@@ -1,9 +1,4 @@
-import command.CommandDemo;
-import iterator.IteratorDemo;
-import memento.MementoDemo;
-import state.StateDemo;
-import strategy.StrategyDemo;
-import templatemethod.TemplateMethodDemo;
+import command.undo.bold.UndoCommandDemo;
 
 public class Main {
     public static void main(String[] args) {
@@ -17,6 +12,7 @@ public class Main {
 
         //TemplateMethodDemo.show();
 
-        CommandDemo.show();
+        //CommandDemo.show();
+        UndoCommandDemo.show();
     }
 }

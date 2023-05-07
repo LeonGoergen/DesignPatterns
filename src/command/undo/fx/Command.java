@@ -1,6 +1,5 @@
-package command.fx;
+package command.undo.fx;
 
-// Command
 public interface Command {
     void execute();
 }

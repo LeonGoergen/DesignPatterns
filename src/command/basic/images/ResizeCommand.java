@@ -1,6 +1,6 @@
-package command.images;
+package command.basic.images;
 
-import command.fx.Command;
+import command.basic.fx.Command;
 
 // Demonstration for Grouped Command A
 public class ResizeCommand implements Command {

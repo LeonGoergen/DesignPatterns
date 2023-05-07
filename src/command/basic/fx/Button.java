@@ -1,4 +1,4 @@
-package command.fx;
+package command.basic.fx;
 
 // Invoker
 public class Button {

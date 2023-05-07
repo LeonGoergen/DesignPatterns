@@ -1,4 +1,4 @@
-package command.customer;
+package command.basic.customer;
 
 // Receiver
 public class CustomerService {

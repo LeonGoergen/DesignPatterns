@@ -1,4 +1,6 @@
 # State Pattern
+[Refactoring Guru](https://refactoring.guru/design-patterns/state), [Digital Ocean](https://www.digitalocean.com/community/tutorials/state-design-pattern-java), [Java Spring Framework](https://springframework.guru/gang-of-four-design-patterns/state-pattern/)
+
 ## Overview
 The State pattern is a behavioral design pattern that allows an object to change its behavior at runtime by changing its internal state. It is useful when an object needs to change its behavior depending on its internal state, and when the number of states is large and/or when the transition logic between states is complex.
 

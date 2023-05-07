@@ -1,10 +1,4 @@
-import behavioral.command.basic.CommandDemo;
-import behavioral.command.undo.bold.UndoCommandDemo;
-import behavioral.iterator.IteratorDemo;
-import behavioral.memento.MementoDemo;
-import behavioral.state.StateDemo;
-import behavioral.strategy.StrategyDemo;
-import behavioral.templatemethod.TemplateMethodDemo;
+import behavioral.observer.ObserverDemo;
 
 public class Main {
     public static void main(String[] args) {
@@ -16,5 +10,6 @@ public class Main {
 //        TemplateMethodDemo.show();
 //        CommandDemo.show();
 //        UndoCommandDemo.show();
+        ObserverDemo.show();
     }
 }

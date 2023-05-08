@@ -17,4 +17,5 @@ The Chain of Responsibility pattern is useful in the following situations:
 
 In general, the Chain of Responsibility pattern is useful in any situation where you want to decouple the sender of a request from its receiver, or where you want to allow multiple objects to handle a request in a flexible and extensible way.
 
+## UML Diagram
 ![Alt text](/src/behavioral/chainofresponsibility/UML.jpg)

@@ -1,6 +1,7 @@
 import behavioral.chainofresponsibility.ResposibilityDemo;
 import behavioral.mediator.MediatorDemo;
 import behavioral.observer.ObserverDemo;
+import behavioral.visitor.VisitorDemo;
 
 public class Main {
     public static void main(String[] args) {
@@ -15,5 +16,6 @@ public class Main {
 //        ObserverDemo.show();
 //        MediatorDemo.show();
 //        ResposibilityDemo.show();
+        VisitorDemo.show();
     }
 }

@@ -7,7 +7,7 @@ The Visitor pattern is a behavioral design pattern that allows you to add new op
 ## Initial Problem
 In object-oriented programming, it is often necessary to add new operations to a group of related objects. However, doing so typically requires modifying the class definitions of the objects, which can lead to code that is difficult to maintain and extend. The Visitor pattern solves this problem by encapsulating the operations in separate visitor objects, which can be added to the group of related objects without modifying their class definitions.
 
-##  to Apply
+##  When to Apply
 The Visitor pattern is useful in the following situations:
 
 * When you have a group of related objects and need to perform different operations on them without modifying their class definitions.

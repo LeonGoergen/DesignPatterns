@@ -1,3 +1,4 @@
+import behavioral.chainofresponsibility.ResposibilityDemo;
 import behavioral.mediator.MediatorDemo;
 import behavioral.observer.ObserverDemo;
 
@@ -13,5 +14,6 @@ public class Main {
 //        UndoCommandDemo.show();
 //        ObserverDemo.show();
 //        MediatorDemo.show();
+//        ResposibilityDemo.show();
     }
 }

@@ -1,8 +1,9 @@
 package behavioral.visitor.fx;
 
+// Concrete Element A
 public class HeadingNode implements HtmlNode {
     @Override
-    public void highlight() {
-        System.out.println("Highlight Header");
+    public void execute(Operation operation) {
+        operation.apply(this);
     }
 }

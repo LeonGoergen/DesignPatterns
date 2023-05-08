@@ -1,5 +1,6 @@
 package behavioral.visitor.fx;
 
+// Element
 public interface HtmlNode {
-    void highlight ();
+    void execute (Operation operation);
 }

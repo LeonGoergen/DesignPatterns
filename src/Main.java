@@ -16,6 +16,6 @@ public class Main {
 //        ObserverDemo.show();
 //        MediatorDemo.show();
 //        ResposibilityDemo.show();
-        VisitorDemo.show();
+//        VisitorDemo.show();
     }
 }

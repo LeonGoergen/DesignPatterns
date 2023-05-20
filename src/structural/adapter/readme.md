@@ -17,4 +17,4 @@ The Adapter pattern is useful in the following situations:
 
 By applying the Adapter pattern, you can achieve better code reusability, maintainability, and flexibility by allowing different components to collaborate seamlessly, even if they have incompatible interfaces.
 
-![Alt text](UML.png)
+![Alt text](UML.jpg)

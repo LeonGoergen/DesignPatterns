@@ -2,6 +2,7 @@ import behavioral.chainofresponsibility.ResposibilityDemo;
 import behavioral.mediator.MediatorDemo;
 import behavioral.observer.ObserverDemo;
 import behavioral.visitor.VisitorDemo;
+import structural.adapter.AdapterDemo;
 import structural.composite.CompositeDemo;
 
 public class Main {
@@ -20,5 +21,6 @@ public class Main {
 //        VisitorDemo.show();
 
 //        CompositeDemo.show();
+        AdapterDemo.show();
     }
 }

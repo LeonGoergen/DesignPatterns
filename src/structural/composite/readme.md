@@ -19,4 +19,4 @@ The Composite pattern is useful in the following situations:
 
 The Composite pattern is particularly valuable when you need to work with complex hierarchies of objects that may have varying levels of complexity themselves. It promotes code reusability, flexibility, and consistency in dealing with object compositions.
 
-![Alt text](/src/structural/composite/UML.jpg)
+![Alt text](/src/structural/composite/UML.pmg)

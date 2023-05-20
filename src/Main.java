@@ -1,9 +1,4 @@
-import behavioral.chainofresponsibility.ResposibilityDemo;
-import behavioral.mediator.MediatorDemo;
-import behavioral.observer.ObserverDemo;
-import behavioral.visitor.VisitorDemo;
-import structural.adapter.AdapterDemo;
-import structural.composite.CompositeDemo;
+import behavioral.chainofresponsibility.ResponsibilityDemo;
 
 public class Main {
     public static void main(String[] args) {
@@ -17,10 +12,11 @@ public class Main {
 //        UndoCommandDemo.show();
 //        ObserverDemo.show();
 //        MediatorDemo.show();
-//        ResposibilityDemo.show();
+//        ResponsibilityDemo.show();
 //        VisitorDemo.show();
 
 //        CompositeDemo.show();
-        AdapterDemo.show();
+//        AdapterDemo.show();
+//        DecoratorDemo.show();
     }
 }

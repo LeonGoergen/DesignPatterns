@@ -2,7 +2,7 @@ package behavioral.chainofresponsibility;
 
 import behavioral.chainofresponsibility.fx.*;
 
-public class ResposibilityDemo {
+public class ResponsibilityDemo {
     public static void show () {
         var compressor = new Compressor(null);
         var logger = new Logger(compressor);

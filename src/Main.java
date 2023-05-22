@@ -1,4 +1,5 @@
 import behavioral.chainofresponsibility.ResponsibilityDemo;
+import structural.bridge.BridgeDemo;
 import structural.facade.FacadeDemo;
 import structural.flyweight.FlyweightDemo;
 
@@ -21,6 +22,7 @@ public class Main {
 //        AdapterDemo.show();
 //        DecoratorDemo.show();
 //        FacadeDemo.show();
-        FlyweightDemo.show();
+//        FlyweightDemo.show();
+        BridgeDemo.show();
     }
 }

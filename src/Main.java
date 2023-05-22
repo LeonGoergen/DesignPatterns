@@ -1,5 +1,6 @@
 import behavioral.chainofresponsibility.ResponsibilityDemo;
 import structural.facade.FacadeDemo;
+import structural.flyweight.FlyweightDemo;
 
 public class Main {
     public static void main(String[] args) {
@@ -19,6 +20,7 @@ public class Main {
 //        CompositeDemo.show();
 //        AdapterDemo.show();
 //        DecoratorDemo.show();
-        FacadeDemo.show();
+//        FacadeDemo.show();
+        FlyweightDemo.show();
     }
 }

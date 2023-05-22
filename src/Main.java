@@ -2,6 +2,7 @@ import behavioral.chainofresponsibility.ResponsibilityDemo;
 import structural.bridge.BridgeDemo;
 import structural.facade.FacadeDemo;
 import structural.flyweight.FlyweightDemo;
+import structural.proxy.ProxyDemo;
 
 public class Main {
     public static void main(String[] args) {
@@ -18,11 +19,13 @@ public class Main {
 //        ResponsibilityDemo.show();
 //        VisitorDemo.show();
 
+//        -----Structural Design Patterns-----
 //        CompositeDemo.show();
 //        AdapterDemo.show();
 //        DecoratorDemo.show();
 //        FacadeDemo.show();
 //        FlyweightDemo.show();
-        BridgeDemo.show();
+//        BridgeDemo.show();
+//        ProxyDemo.show();
     }
 }

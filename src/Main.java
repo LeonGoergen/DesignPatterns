@@ -1,4 +1,5 @@
 import behavioral.chainofresponsibility.ResponsibilityDemo;
+import creational.prototype.PrototypeDemo;
 import structural.bridge.BridgeDemo;
 import structural.facade.FacadeDemo;
 import structural.flyweight.FlyweightDemo;
@@ -27,5 +28,7 @@ public class Main {
 //        FlyweightDemo.show();
 //        BridgeDemo.show();
 //        ProxyDemo.show();
+//        -----Structural Design Patterns-----
+        PrototypeDemo.show();
     }
 }

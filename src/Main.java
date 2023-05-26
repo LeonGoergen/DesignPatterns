@@ -1,13 +1,3 @@
-import behavioral.chainofresponsibility.ResponsibilityDemo;
-import creational.abstractfactory.AbstractFactoryDemo;
-import creational.factorymethod.FactoryDemo;
-import creational.prototype.PrototypeDemo;
-import creational.singleton.SingletonDemo;
-import structural.bridge.BridgeDemo;
-import structural.facade.FacadeDemo;
-import structural.flyweight.FlyweightDemo;
-import structural.proxy.ProxyDemo;
-
 public class Main {
     public static void main(String[] args) {
 //        -----Behavioral Design Patterns-----
@@ -36,6 +26,7 @@ public class Main {
 //        PrototypeDemo.show();
 //        SingletonDemo.show();
 //        FactoryDemo.show();
-        AbstractFactoryDemo.show();
+//        AbstractFactoryDemo.show();
+//        BuilderDemo.show();
     }
 }

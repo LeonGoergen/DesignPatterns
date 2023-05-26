@@ -1,4 +1,5 @@
 import behavioral.chainofresponsibility.ResponsibilityDemo;
+import creational.abstractfactory.AbstractFactoryDemo;
 import creational.factorymethod.FactoryDemo;
 import creational.prototype.PrototypeDemo;
 import creational.singleton.SingletonDemo;
@@ -34,6 +35,7 @@ public class Main {
 //        -----Structural Design Patterns-----
 //        PrototypeDemo.show();
 //        SingletonDemo.show();
-        FactoryDemo.show();
+//        FactoryDemo.show();
+        AbstractFactoryDemo.show();
     }
 }
